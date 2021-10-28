@@ -2,7 +2,7 @@
 
 CORETECH_DIR="/tmp/pmc-coretech"
 
-REPO_LIST="/srv/provision/utilities/pmc/coretech/repos.yml"
+REPO_LIST="/srv/provision/extensions/pmc/coretech/repos.yml"
 
 vvv_info " * Preparing to clone common code for reuse during site provisioning..."
 
